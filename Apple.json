@@ -1,0 +1,6 @@
+{
+    "name" : "Apple",
+    "workers": 100000,
+    "CEO": "Tim Cook",
+    "revenue": 260000000000
+}
