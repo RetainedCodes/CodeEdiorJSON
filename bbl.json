@@ -1,0 +1,87 @@
+{
+    "Big Bash League Teams" : [
+        {
+            "teamname" : "Sydney Sixers",
+            "state" : "NSW",
+            "homeStadium" : "Sydney Cricket Ground",
+            "winnings" : {
+                "wins" : 3,
+                "winningYears" : [2012, 2020, 2021],
+                "seasonsWins" : ["BBL01, BBL09, BBL10"]
+            }
+
+            
+        },
+        {
+            "teamname" : "Sydney Thunder",
+            "state" : "NSW",
+            "homeStadium" : "Sydney Showground Stadium",
+            "winnings" : {
+                "wins" : 1,
+                "winningYears" : 2016,
+                "seasonsWins" : "BBL05"
+            }
+        },
+        {
+            "teamname" : "Melbourne Stars",
+            "state" : "VIC",
+            "homeStadium" : "Melbourne Cricket Ground",
+            "winnings" : {
+                "wins" : 0,
+                "winningYears" : null,
+                "seasonsWins" : null
+            }
+        },
+        {
+            "teamname" : "Melbourne Renegades",
+            "state" : "VIC",
+            "homeStadium" : "Marvel Stadium",
+            "winnings" : {
+                "wins" : 1,
+                "winningYears" : "2019",
+                "seasonsWins" : "BBL08"
+            }
+        },
+        {
+            "teamname" : "Adelaide Strikers",
+            "state" : "SA",
+            "homeStadium" : "Adelaide Oval",
+            "winnings" : {
+                "wins" : 1,
+                "winningYears" : 2018,
+                "seasonsWins" : "BBL07"
+            }
+            
+        },
+        {
+            "teamname" : "Brisbane Heat",
+            "state" : "QLD",
+            "homeStadium" : "The Gabba",
+            "winnings" : {
+                "wins" : 1,
+                "winningsYears" : "2013",
+                "seasonsWins" : "BBL02"
+            }
+        },
+        {
+            "teamname" : "Hobart Hurricanes",
+            "state" : "TAS",
+            "homeStadium" : "Blundstone Arena",
+            "winnings" : {
+                "wins" : 0,
+                "winningYears" : null,
+                "seasonsWins" : null
+            }
+        },
+        {
+            "teamname" : "Perth Scorchers",
+            "state" : "WA",
+            "homeStadium" : "Optus Stadium",
+            "winnings" : {
+                "wins" : 3,
+                "winningsYears" : ["2014, 2016, 2017"],
+                "seasonsWinnings" : ["BBL03, BBL04, BBL06"]
+            }
+        }
+    ]
+}
