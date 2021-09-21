@@ -1,0 +1,37 @@
+{
+  "users" : [
+    {
+      "id" : 1,
+      "first_name" : "John",
+      "last_name" : "Doe",
+      "email" : "johndoe@yahoo.com",
+      "gender" : "Male",
+      "ip_address" : "26.58.193.2"
+    },
+    {
+      "id" : 2,
+      "first_name" : "Jane",
+      "last_name" : "Doe",
+      "email" : "janedoe@aol.com",
+      "gender" : "Female",
+      "ip_address" : "229.179.4.212"
+    },
+    {
+      "id" : 3,
+      "first_name" : "Jack",
+      "last_name" : "Doe",
+      "email" : "jack_doe@gmail.com",
+      "gender" : "Male",
+      "ip_address" : "180.66.162.255"
+    },
+    {
+      "id" : 4,
+      "first_name" : "Karen",
+      "last_name" : "Doe",
+      "email" : "karenDoe@outlook.com",
+      "gender" : "Female",
+      "ip_address" : "67.76.188.26"
+    }
+  
+  ]
+}
