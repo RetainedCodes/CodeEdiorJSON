@@ -1,0 +1,22 @@
+{
+    "office365" : [
+        {
+            "name" : "Outlook/Hotmal",
+            "dev" : "Microsoft",
+            "users" : 4000000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "Pay"
+            }
+        },
+        {
+            "name" : "Word",
+            "dev" : "Microsoft",
+            "users" : 100000000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "Pay"
+            }
+        }
+    ]
+}
