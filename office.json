@@ -2,11 +2,12 @@
     "office365" : [
         {
             "name" : "Outlook/Hotmal",
+            "originaldev" : "Jack Smith",
             "dev" : "Microsoft",
             "users" : 4000000,
             "price" : {
                 "UseOnline" : "Free",
-                "UseOffline" : "Pay"
+                "UseOffline" : "$129.99"
             }
         },
         {
@@ -15,7 +16,63 @@
             "users" : 100000000,
             "price" : {
                 "UseOnline" : "Free",
-                "UseOffline" : "Pay"
+                "UseOffline" : "$159.00"
+            }
+        },
+        {
+            "name" : "Excel",
+            "dev" : "Microsoft",
+            "users" : 75000000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "$149.99"
+            }
+            
+        },
+        {
+            "name" : "Powerpoint",
+            "dev" : "Microsoft",
+            "users" : 500000000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "$159.00"
+            }
+        },
+        {
+            "name" : "Skype",
+            "originaldev" : "Zahti Heinla, Priit Kasesalu and Jaan Tallinn, Danish developer Janus Friis and Sweden's Niklas Zennstrom",
+            "dev" : "Microsoft",
+            "users" : 13300000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "Free"
+            }
+        },
+        {
+            "name" : "OneNote",
+            "dev" : "Microsoft",
+            "users" : 500000000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "Free"
+            }
+        },
+        {
+            "name" : "OneDrive",
+            "dev" : "Microsoft",
+            "users" : 250000000,
+            "price" : {
+                "UseOnline" : "Free if you use 1TB",
+                "UseOffline" : "Free if you use 1TB"
+            }
+        },
+        {
+            "name" : "Teams",
+            "dev" : "Microsoft",
+            "users" : 145000000,
+            "price" : {
+                "UseOnline" : "Free",
+                "UseOffline" : "Free if you use default storage in file sharing"
             }
         }
     ]
